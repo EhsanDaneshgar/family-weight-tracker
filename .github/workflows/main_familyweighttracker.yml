@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'FamilyWeightTracker'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_279077BA647E4E498B43ABBE62D82BA3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D83DF5FF46A544228BEEE89B3A162216 }}
