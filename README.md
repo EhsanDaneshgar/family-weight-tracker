@@ -23,9 +23,10 @@ A lightweight Flask web application to log and view daily weight entries for fam
 ---
 
 ## 🖥️ Screenshots
-![App Screenshot](./images/Screenshot%202025-07-08%20222810.png)
 
-![App UI Preview](./images/Screenshot%202025-07-08%20215518.png)
+![App UI - Input Form](./images/Screenshot%202025-07-08%20215518.png)
+
+![App UI - Table View](./images/Screenshot%202025-07-08%20222304.png)
 
 
 ---
